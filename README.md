@@ -113,6 +113,7 @@ int main()
                 return 0;
             default:
                 cout<<"Enter the options from 1 to 5"<<endl;
+                break;
         }
     }
 }
